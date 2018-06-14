@@ -1,0 +1,12 @@
+{
+	"name": "prolib/icalendar",
+	"type": "library",
+	"autoload": {
+		"psr-4": {
+			"ProLib\\ICalendar\\": ["src/"]
+		}
+	},
+	"require-dev": {
+		"codeception/codeception": "^2.4"
+	}
+}
